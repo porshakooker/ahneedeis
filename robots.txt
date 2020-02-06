@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://bieshiudae.railroadsofmn.com/sitemap.xml
